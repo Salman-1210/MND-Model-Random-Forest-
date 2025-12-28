@@ -1,0 +1,49 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "13.9",
+      "Distance_cm": "41.5",
+      "Amplitude_mv": "4.3",
+      "NCV_ms": "42.0"
+    },
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "ANKLE",
+      "Latency_ms": "4.1",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "3.3",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Rt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "13.6",
+      "Distance_cm": "39.0",
+      "Amplitude_mv": "6.7",
+      "NCV_ms": "42.2"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "26.4",
+      "NCV_ms": "66.5"
+    },
+    {
+      "Nerve": "Right sural sensory nerve",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    }
+  ],
+  "Electromyography": []
+}

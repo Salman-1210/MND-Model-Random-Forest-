@@ -1,0 +1,94 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Bilateral peroneal (EDB)",
+      "Stimulus_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_mv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve_Muscles": "Rt. Peroneal TA",
+      "Stimulus_Site": "D. KNEE",
+      "Latency_ms": "2.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "1.4",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "13.9",
+      "Distance_cm": "41.5",
+      "Amplitude_mv": "4.3",
+      "NCV_ms": "42.0"
+    },
+    {
+      "Nerve_Muscles": "Rt. tibial AH",
+      "Stimulus_Site": "A",
+      "Latency_ms": "4.4",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "9.1",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": [
+    {
+      "Muscles": "right orbicularis oris (O.Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "N/A",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "N/A",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "N/A"
+    }
+  ]
+}

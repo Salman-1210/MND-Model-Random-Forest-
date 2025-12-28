@@ -1,0 +1,85 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Peroneal TA",
+      "Stimulus_Site": "D. KNEE",
+      "Latency_ms": "2.7",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Lt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "12.9",
+      "Distance_cm": "40.0",
+      "Amplitude_mv": "4.6",
+      "NCV_ms": "49.9"
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "W",
+      "Latency_ms": "3.8",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "5.7",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral radial sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Biceps",
+      "Fibs": "+",
+      "Psw": "+",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "biceps",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "right tibialis anterior (TA)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    }
+  ]
+}

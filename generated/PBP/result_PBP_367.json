@@ -1,0 +1,74 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\" \" \" \" \" \"",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "11.9",
+      "Distance_cm": "37.0",
+      "Amplitude_mv": "2.4",
+      "NCV_ms": "47.2"
+    },
+    {
+      "Nerve_Muscles": "|Rt Ulnar",
+      "Stimulus_Site": "NR",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "| 14.0",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "Bilateral ulnar (ADQ)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latencies",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "WRIST",
+      "Latency_ms": "3.1",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "20.6",
+      "NCV_ms": "45.9"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "right orbicularis oris (O.Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "Rt. VL",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "Ployphasic",
+      "Interference": "RFR"
+    }
+  ]
+}

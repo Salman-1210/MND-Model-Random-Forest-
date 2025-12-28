@@ -1,0 +1,117 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADQ",
+      "Stimulus_Site": "W",
+      "Latency_ms": "2.8",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "9.4",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Right peroneal (EDB)",
+      "Stimulus_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_mv": null,
+      "NCV_ms": null
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "WRIST",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_uv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve": "Lt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "WRIST",
+      "Latency_ms": "2.6",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "26.3",
+      "NCV_ms": "50.7"
+    },
+    {
+      "Nerve": "Bilateral radial sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right tibialis anterior (TA) and gastrocnemius",
+      "Fibs": "active denervation activity",
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": "neurogenic Motor Unit Action Potential (MUAPs)",
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "right first dorsal interosseous (FDI), biceps, and tibialis anterior (TA)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR) recruitment",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "right thoracic paraspinal (TPS)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "technically difficult TD",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. TA",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "No",
+      "Interference": "RFR"
+    },
+    {
+      "Muscles": "right first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "no motor units record",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "left first dorsal interosseous (FDI)",
+      "Fibs": "active denervation activity",
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": "neurogenic Motor Unit Action Potential (MUAPs)",
+      "Recruit": "rapid firing rate (RFR) recruitment",
+      "Interference": "reduced interference pattern"
+    }
+  ]
+}

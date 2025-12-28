@@ -1,0 +1,112 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "K",
+      "Latency_ms": "11.0",
+      "Distance_cm": "41.0",
+      "Amplitude_mv": "12.4",
+      "NCV_ms": "53.5"
+    },
+    {
+      "Nerve_Muscles": "VV VV VV VA",
+      "Stimulus_Site": "Triceps",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "“ “ “ “ “",
+      "Stimulus_Site": "ELBOW",
+      "Latency_ms": "8.5",
+      "Distance_cm": "23.0",
+      "Amplitude_mv": "4.3",
+      "NCV_ms": "44.0"
+    },
+    {
+      "Nerve_Muscles": "Right peroneal (TA) motor",
+      "Stimulus_Site": "",
+      "Latency_ms": "NR",
+      "Distance_cm": "",
+      "Amplitude_mv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "NR",
+      "Stimulus_Site": "NR",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "NR",
+      "NCV_ms": "NR"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "Wrist",
+      "Latency_ms": "2.6",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "22.7",
+      "NCV_ms": "54.6"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "left first dorsal interosseous (FDI) and extensor digitorum communis (EDC)",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "normal spontaneous activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "Rt. VL",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "Ployphasic",
+      "Interference": "RFR"
+    },
+    {
+      "Muscles": "Rt. Biceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "i Spontaneous Activity Motor Units ita Muscles |\" Fibs | Psw | Others | Amp | Duration | Polys. | Recruit | Interference Lt.FDI [| +2 [ +2 [ None | High | Long | No | RFR_| Reduced _ (RETA [| +3 | +3 [None | ~FewHigh | FewLong | =No | Normal | = [Rt.Gastroc [ +2 | +2 [ None | FewHigh | FewLong | No | Normal | =",
+      "Fibs": "Lt. FDI",
+      "Psw": "NR",
+      "Others": "NR",
+      "Amp": "None",
+      "Duration": "NR",
+      "Polys": "NR",
+      "Recruit": "NR",
+      "Interference": "NR"
+    }
+  ]
+}

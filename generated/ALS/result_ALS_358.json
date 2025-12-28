@@ -1,0 +1,67 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\"\"\"\"\"\"",
+      "Stimulus_Site": "D. Elbow",
+      "Latency_ms": "7.2",
+      "Distance_cm": "24.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "50.3"
+    },
+    {
+      "Nerve_Muscles": "Lt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "12.9",
+      "Distance_cm": "40.0",
+      "Amplitude_mv": "4.6",
+      "NCV_ms": "49.9"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": [
+    {
+      "Muscles": "left first dorsal interosseous (FDI) and extensor digitorum communis (EDC)",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "normal spontaneous activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Gastroc",
+      "Fibs": "+2",
+      "Psw": "+2",
+      "Others": "None",
+      "Amp": "Few High",
+      "Duration": "Few Long",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "right thoracic paraspinal (TPS)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "technically difficult TD",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    }
+  ]
+}

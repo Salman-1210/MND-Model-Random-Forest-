@@ -1,0 +1,127 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "15.2",
+      "Distance_cm": "41.0",
+      "Amplitude_mv": "2.0",
+      "NCV_ms": "39.4"
+    },
+    {
+      "Nerve_Muscles": "Rt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "13.6",
+      "Distance_cm": "39.0",
+      "Amplitude_mv": "6.7",
+      "NCV_ms": "42.2"
+    },
+    {
+      "Nerve_Muscles": "Left median (APB)",
+      "Stimulus_Site": null,
+      "Latency_ms": "prolonged distal latency",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "W",
+      "Latency_ms": "2.6",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "13.5",
+      "NCV_ms": "50.7"
+    },
+    {
+      "Nerve": "Bilateral ulnar sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": "F5",
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Lt. Gastroc",
+      "Fibs": "+++",
+      "Psw": "+++",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    },
+    {
+      "Muscles": "Lt. FDI",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Few Long",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    },
+    {
+      "Muscles": "left tibialis anterior (TA) and gastrocnemius",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "left gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with normal Motor Unit Action Potential (MUAPs), rapid firing rate (RFR)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR)",
+      "Interference": "reduced"
+    },
+    {
+      "Muscles": "Lt. TA",
+      "Fibs": "+",
+      "Psw": "+",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    },
+    {
+      "Muscles": "i Spontaneous Activity Motor Units ita Muscles |\" Fibs | Psw | Others | Amp | Duration | Polys. | Recruit | Interference Lt.FDI [| +2 [ +2 [ None | High | Long | No | RFR_| Reduced _ (RETA [| +3 | +3 [None | ~FewHigh | FewLong | =No | Normal | = [Rt.Gastroc [ +2 | +2 [ None | FewHigh | FewLong | No | Normal | =",
+      "Fibs": "Lt. FDI",
+      "Psw": "NR",
+      "Others": "NR",
+      "Amp": "None",
+      "Duration": "NR",
+      "Polys": "NR",
+      "Recruit": "NR",
+      "Interference": "NR"
+    }
+  ]
+}

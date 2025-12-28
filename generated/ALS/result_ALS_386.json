@@ -1,0 +1,120 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\"",
+      "Stimulus_Site": "P. ELBOW",
+      "Latency_ms": "10.5",
+      "Distance_cm": "9.5",
+      "Amplitude_mv": "0.3",
+      "NCV_ms": "52.2"
+    },
+    {
+      "Nerve_Muscles": "\"\"\"\"\"\"",
+      "Stimulus_Site": "Knee",
+      "Latency_ms": "13.3",
+      "Distance_cm": "45.0",
+      "Amplitude_mv": "2.4",
+      "NCV_ms": "49.8"
+    },
+    {
+      "Nerve_Muscles": "|Rt Ulnar",
+      "Stimulus_Site": "NR",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "| 14.0",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "Lt. tibial AH",
+      "Stimulus_Site": "A",
+      "Latency_ms": "4.9",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "6.0",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Sural",
+      "Recording_Site": "A",
+      "Stimulation_Site": "Calf",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_uv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve": "Lt. Sural",
+      "Recording_Site": "A",
+      "Stimulation_Site": "Calf",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "16.6",
+      "NCV_ms": "65.5"
+    },
+    {
+      "Nerve": "Right sural",
+      "Recording_Site": "N/A",
+      "Stimulation_Site": "N/A",
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": "N/A",
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    },
+    {
+      "Nerve": "Lt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "W",
+      "Latency_ms": "2.0",
+      "Distance_cm": "12.0",
+      "Amplitude_uv": "38.2",
+      "NCV_ms": "60.5"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "left first dorsal interosseous (FDI) and extensor digitorum communis (EDC)",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "normal spontaneous activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "right tibialis anterior (TA)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Lt. Gastroc",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

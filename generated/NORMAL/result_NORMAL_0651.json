@@ -1,0 +1,40 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "13.6",
+      "Distance_cm": "39.0",
+      "Amplitude_mv": "6.7",
+      "NCV_ms": "42.2"
+    },
+    {
+      "Nerve_Muscles": "“ “ “ “ “",
+      "Stimulus_Site": "D. ELBOW",
+      "Latency_ms": "7.3",
+      "Distance_cm": "21.0",
+      "Amplitude_mv": "6.3",
+      "NCV_ms": "52.8"
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "E",
+      "Latency_ms": "8.9",
+      "Distance_cm": "24.0",
+      "Amplitude_mv": "6.1",
+      "NCV_ms": "47.5"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Right ulnar",
+      "Recording_Site": "(F5)",
+      "Stimulation_Site": "N/A",
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": "N/A",
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    }
+  ],
+  "Electromyography": []
+}

@@ -1,0 +1,32 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADQ",
+      "Stimulus_Site": "E",
+      "Latency_ms": "7.7",
+      "Distance_cm": "21.0",
+      "Amplitude_mv": "9.5",
+      "NCV_ms": "42.5"
+    },
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "ANKLE",
+      "Latency_ms": "4.7",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "5.3",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Sural",
+      "Recording_Site": "ANKLE",
+      "Stimulation_Site": "CALF",
+      "Latency_ms": "2.4",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "19.1",
+      "NCV_ms": "54.6"
+    }
+  ],
+  "Electromyography": []
+}

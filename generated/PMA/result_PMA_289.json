@@ -1,0 +1,123 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "13.6",
+      "Distance_cm": "39.0",
+      "Amplitude_mv": "6.7",
+      "NCV_ms": "42.2"
+    },
+    {
+      "Nerve_Muscles": "|Rt Ulnar",
+      "Stimulus_Site": "NR",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "| 14.0",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "Lt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "12.9",
+      "Distance_cm": "40.0",
+      "Amplitude_mv": "4.6",
+      "NCV_ms": "49.9"
+    },
+    {
+      "Nerve_Muscles": "Lt. Peroneal EDB",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "12.0",
+      "Distance_cm": "9.0",
+      "Amplitude_mv": "1.2",
+      "NCV_ms": "52.8"
+    },
+    {
+      "Nerve_Muscles": "",
+      "Stimulus_Site": "P. KNEE",
+      "Latency_ms": "18.6",
+      "Distance_cm": "9.0",
+      "Amplitude_mv": "1.4",
+      "NCV_ms": "40.1"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Right median",
+      "Recording_Site": null,
+      "Stimulation_Site": "F2",
+      "Latency_ms": "normal peak",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP",
+      "NCV_ms": "normal"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. VL",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "Ployphasic",
+      "Interference": "RFR"
+    },
+    {
+      "Muscles": "vastus lateralis (VL)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "left first dorsal interosseous (FDI) and extensor digitorum communis (EDC)",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "normal spontaneous activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "Rt. TPS",
+      "Fibs": "TD",
+      "Psw": "TD",
+      "Others": "TD",
+      "Amp": "TD",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "left tibialis anterior (TA) and gastrocnemius",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "right biceps",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal",
+      "Interference": "normal"
+    }
+  ]
+}

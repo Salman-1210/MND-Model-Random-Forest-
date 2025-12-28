@@ -1,0 +1,106 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "E",
+      "Latency_ms": "6.8",
+      "Distance_cm": "23.0",
+      "Amplitude_mv": "4.4",
+      "NCV_ms": "55.5"
+    },
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "13.9",
+      "Distance_cm": "41.5",
+      "Amplitude_mv": "4.3",
+      "NCV_ms": "42.0"
+    },
+    {
+      "Nerve_Muscles": "\" \" \" \" \" \"",
+      "Stimulus_Site": "D. ELBOW",
+      "Latency_ms": "5.9",
+      "Distance_cm": "21.0",
+      "Amplitude_mv": "3.7",
+      "NCV_ms": "63.7"
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADQ",
+      "Stimulus_Site": "P. ELBOW",
+      "Latency_ms": "8.8",
+      "Distance_cm": "11.5",
+      "Amplitude_mv": "4.9",
+      "NCV_ms": "56.2"
+    },
+    {
+      "Nerve_Muscles": "'' '' '' '' ''",
+      "Stimulus_Site": "ELBOW",
+      "Latency_ms": "7.8",
+      "Distance_cm": "20.0",
+      "Amplitude_mv": "5.2",
+      "NCV_ms": "55.9"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "W",
+      "Latency_ms": "2.1",
+      "Distance_cm": "12.0",
+      "Amplitude_uv": "10.2",
+      "NCV_ms": "57.8"
+    },
+    {
+      "Nerve": "Bilateral ulnar",
+      "Recording_Site": null,
+      "Stimulation_Site": "(F5)",
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve": "Right sural sensory nerve",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    },
+    {
+      "Nerve": "Right median",
+      "Recording_Site": "N/A",
+      "Stimulation_Site": "F2",
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": "N/A",
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. FDI",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "biceps",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    }
+  ]
+}

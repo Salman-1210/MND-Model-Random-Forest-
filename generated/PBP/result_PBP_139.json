@@ -1,0 +1,95 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Bilateral ulnar (ADQ)",
+      "Stimulus_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_mv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve_Muscles": "Bilateral posterior tibial (AH)",
+      "Stimulus_Site": "N/A",
+      "Latency_ms": "normal distal latencies",
+      "Distance_cm": "N/A",
+      "Amplitude_mv": "normal CMAP amplitudes",
+      "NCV_ms": "slow conduction velocities"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral radial sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve": "Lt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "30.5",
+      "NCV_ms": "66.5"
+    },
+    {
+      "Nerve": "Rt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "Wrist",
+      "Latency_ms": "2.6",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "22.7",
+      "NCV_ms": "54.6"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right orbicularis oris (O.Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. VL",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "Ployphasic",
+      "Interference": "RFR"
+    }
+  ]
+}

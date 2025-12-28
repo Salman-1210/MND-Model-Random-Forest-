@@ -1,0 +1,24 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "13.9",
+      "Distance_cm": "41.5",
+      "Amplitude_mv": "4.3",
+      "NCV_ms": "42.0"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Sural",
+      "Recording_Site": "ANKLE",
+      "Stimulation_Site": "CALF",
+      "Latency_ms": "2.4",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "19.1",
+      "NCV_ms": "54.6"
+    }
+  ],
+  "Electromyography": []
+}

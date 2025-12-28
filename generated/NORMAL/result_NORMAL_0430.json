@@ -1,0 +1,92 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Peroneal EDB",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "11.3",
+      "Distance_cm": "9.0",
+      "Amplitude_mv": "3.2",
+      "NCV_ms": "60.9"
+    },
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "K",
+      "Latency_ms": "11.0",
+      "Distance_cm": "41.0",
+      "Amplitude_mv": "12.4",
+      "NCV_ms": "53.5"
+    },
+    {
+      "Nerve_Muscles": "Lt. tibial AH",
+      "Stimulus_Site": "A",
+      "Latency_ms": "4.9",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "6.0",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "Wrist",
+      "Latency_ms": "2.6",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "22.7",
+      "NCV_ms": "54.6"
+    },
+    {
+      "Nerve": "Right median",
+      "Recording_Site": null,
+      "Stimulation_Site": "(F2)",
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve": "Bilateral median (F2)",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right orbicularis oris (O.Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "Lt. Gastroc",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    }
+  ]
+}

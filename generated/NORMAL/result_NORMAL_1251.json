@@ -1,0 +1,33 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "13.9",
+      "Distance_cm": "41.5",
+      "Amplitude_mv": "4.3",
+      "NCV_ms": "42.0"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "W",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_uv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve": "Bilateral median",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": "were not recordable (NR)"
+    }
+  ],
+  "Electromyography": []
+}

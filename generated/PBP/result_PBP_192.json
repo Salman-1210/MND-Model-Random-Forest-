@@ -1,0 +1,139 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "“ “ “ “",
+      "Stimulus_Site": "D. Elbow",
+      "Latency_ms": "8.0",
+      "Distance_cm": "24.0",
+      "Amplitude_mv": "1.3",
+      "NCV_ms": "49.7"
+    },
+    {
+      "Nerve_Muscles": "Left peroneal (EDB)",
+      "Stimulus_Site": "N/A",
+      "Latency_ms": "normal distal latency",
+      "Distance_cm": "N/A",
+      "Amplitude_mv": "normal CMAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    },
+    {
+      "Nerve_Muscles": "Right posterior tibial (AH)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latency",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    },
+    {
+      "Nerve_Muscles": "Left median (APB)",
+      "Stimulus_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_mv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve_Muscles": "Bilateral posterior Tibial (AH)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latencies",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Right sural sensory nerve",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    },
+    {
+      "Nerve": "Rt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "WRIST",
+      "Latency_ms": "2.4",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "11.7",
+      "NCV_ms": "58.0"
+    },
+    {
+      "Nerve": "Rt. Sural",
+      "Recording_Site": "Ankle",
+      "Stimulation_Site": "Calf",
+      "Latency_ms": "2.6",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "8.5",
+      "NCV_ms": "49.5"
+    },
+    {
+      "Nerve": "Bilateral median",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": "were not recordable (NR)"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right orbicularis oris (O.Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "i Spontaneous Activity Motor Units ita Muscles |\" Fibs | Psw | Others | Amp | Duration | Polys. | Recruit | Interference Lt.FDI [| +2 [ +2 [ None | High | Long | No | RFR_| Reduced _ (RETA [| +3 | +3 [None | ~FewHigh | FewLong | =No | Normal | = [Rt.Gastroc [ +2 | +2 [ None | FewHigh | FewLong | No | Normal | =",
+      "Fibs": "Lt. FDI",
+      "Psw": "NR",
+      "Others": "NR",
+      "Amp": "None",
+      "Duration": "NR",
+      "Polys": "NR",
+      "Recruit": "NR",
+      "Interference": "NR"
+    }
+  ]
+}

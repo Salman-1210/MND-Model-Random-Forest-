@@ -1,0 +1,106 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Ulnar ADQ",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": "3.9",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "3.2",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Rt. Peroneal EDB",
+      "Stimulus_Site": "Ankle",
+      "Latency_ms": "3.9",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "3.0",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Lt. Post. tibial AH",
+      "Stimulus_Site": "A",
+      "Latency_ms": "3.3",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "17.5",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "\" \" \" \" \" \"",
+      "Stimulus_Site": "D. ELBOW",
+      "Latency_ms": "5.9",
+      "Distance_cm": "20.0",
+      "Amplitude_mv": "3.2",
+      "NCV_ms": "60.7"
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADQ",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": "2.5",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "6.5",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Sural",
+      "Recording_Site": "Ankle",
+      "Stimulation_Site": "Calf",
+      "Latency_ms": "2.6",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "8.1",
+      "NCV_ms": "49.5"
+    },
+    {
+      "Nerve": "Lt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "Wrist",
+      "Latency_ms": "2.3",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "38.1",
+      "NCV_ms": "62.0"
+    },
+    {
+      "Nerve": "Bilateral median sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": "F2",
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve": "Left sural",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP",
+      "NCV_ms": "normal"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Lt. FDI",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Few Long",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    },
+    {
+      "Muscles": "first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    }
+  ]
+}

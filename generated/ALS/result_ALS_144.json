@@ -1,0 +1,99 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Bilateral ulnar (ADQ)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latencies",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitudes",
+      "NCV_ms": "slow conduction velocities"
+    },
+    {
+      "Nerve_Muscles": "\" \"",
+      "Stimulus_Site": "P. KNEE",
+      "Latency_ms": "10.6",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "1.0",
+      "NCV_ms": "50.3"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "30.5",
+      "NCV_ms": "66.5"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "biceps",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "i Spontaneous Activity Motor Units ita Muscles |\" Fibs | Psw | Others | Amp | Duration | Polys. | Recruit | Interference Lt.FDI [| +2 [ +2 [ None | High | Long | No | RFR_| Reduced _ (RETA [| +3 | +3 [None | ~FewHigh | FewLong | =No | Normal | = [Rt.Gastroc [ +2 | +2 [ None | FewHigh | FewLong | No | Normal | =",
+      "Fibs": "Lt. FDI",
+      "Psw": "NR",
+      "Others": "NR",
+      "Amp": "None",
+      "Duration": "NR",
+      "Polys": "NR",
+      "Recruit": "NR",
+      "Interference": "NR"
+    },
+    {
+      "Muscles": "Lt. Vastus",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "left first dorsal interosseous (FDI) and extensor digitorum communis (EDC)",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "normal spontaneous activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "Rt. Gastroc",
+      "Fibs": "+",
+      "Psw": "+",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

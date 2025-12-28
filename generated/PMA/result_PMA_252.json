@@ -1,0 +1,67 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Stimulus site",
+      "Stimulus_Site": "Stimulus site",
+      "Latency_ms": "ms",
+      "Distance_cm": "cm",
+      "Amplitude_mv": "Amplitude mv",
+      "NCV_ms": "ms"
+    },
+    {
+      "Nerve_Muscles": "Rt. Peroneal TA",
+      "Stimulus_Site": "D. KNEE",
+      "Latency_ms": "2.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "1.4",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": [
+    {
+      "Muscles": "vastus lateralis (VL)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "biceps",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "right first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "no motor units record",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

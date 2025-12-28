@@ -1,0 +1,134 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Nerve",
+      "Stimulus_Site": "Recording Site",
+      "Latency_ms": "Stimulation Site",
+      "Distance_cm": "ms",
+      "Amplitude_mv": "cm",
+      "NCV_ms": "Amplitude Vv"
+    },
+    {
+      "Nerve_Muscles": "Lt. Peroneal TA",
+      "Stimulus_Site": "D. KNEE",
+      "Latency_ms": "2.7",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "PE",
+      "Latency_ms": "9.8",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "10.0",
+      "NCV_ms": "48.9"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral radial sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve": "Rt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "WRIST",
+      "Latency_ms": "2.6",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "24.8",
+      "NCV_ms": "53.3"
+    },
+    {
+      "Nerve": "Lt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "30.5",
+      "NCV_ms": "66.5"
+    },
+    {
+      "Nerve": "Rt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "26.4",
+      "NCV_ms": "66.5"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Lt. Vastus",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. TA",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "Few High",
+      "Duration": "Few Long",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "right tibialis anterior (TA)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Lt. TA",
+      "Fibs": "+++",
+      "Psw": "+++",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Broad",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    },
+    {
+      "Muscles": "Rt. Biceps",
+      "Fibs": "+",
+      "Psw": "+",
+      "Others": "None",
+      "Amp": "Few High",
+      "Duration": "Few Long",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    }
+  ]
+}

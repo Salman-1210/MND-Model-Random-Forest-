@@ -1,0 +1,106 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Radial EIP",
+      "Stimulus_Site": "Forearm",
+      "Latency_ms": "5.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "0.5",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Lt. Radial EIP",
+      "Stimulus_Site": "Forearm",
+      "Latency_ms": "3.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "1.4",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "30.5",
+      "NCV_ms": "66.5"
+    },
+    {
+      "Nerve": "Right sural",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve": "Left sural",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP",
+      "NCV_ms": "normal"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "N/A",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "N/A",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "N/A"
+    },
+    {
+      "Muscles": "right tibialis anterior (TA)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "biceps",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "right biceps",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    }
+  ]
+}

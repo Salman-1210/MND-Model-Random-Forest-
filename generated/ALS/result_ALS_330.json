@@ -1,0 +1,104 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "'' '' '' '' ''",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "16.3",
+      "Distance_cm": "36.0",
+      "Amplitude_mv": "1.5",
+      "NCV_ms": "43.7"
+    },
+    {
+      "Nerve_Muscles": "Rt. Radial EIP",
+      "Stimulus_Site": "Forearm",
+      "Latency_ms": "5.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "0.5",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "........",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": "6.8",
+      "Distance_cm": "11.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "35.2"
+    },
+    {
+      "Nerve_Muscles": "Left posterior tibial (AH)",
+      "Stimulus_Site": null,
+      "Latency_ms": "prolonged",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP",
+      "NCV_ms": "slow"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "26.4",
+      "NCV_ms": "66.5"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Biceps",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "No",
+      "Interference": "RFR"
+    },
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. VL",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

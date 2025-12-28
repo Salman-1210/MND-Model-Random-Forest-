@@ -1,0 +1,70 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. tibial AH",
+      "Stimulus_Site": "A",
+      "Latency_ms": "4.9",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "6.0",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Rt. Peroneal EDB",
+      "Stimulus_Site": "DK",
+      "Latency_ms": "9.8",
+      "Distance_cm": "30.0",
+      "Amplitude_mv": "3.2",
+      "NCV_ms": "48.4"
+    },
+    {
+      "Nerve_Muscles": "'' '' '' '' ''",
+      "Stimulus_Site": "ELBOW",
+      "Latency_ms": "7.8",
+      "Distance_cm": "20.0",
+      "Amplitude_mv": "5.2",
+      "NCV_ms": "55.9"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral median (F2)",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve": "Right ulnar",
+      "Recording_Site": null,
+      "Stimulation_Site": "(F5)",
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve": "Lt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "30.5",
+      "NCV_ms": "66.5"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

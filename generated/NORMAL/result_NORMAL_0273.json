@@ -1,0 +1,33 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "E",
+      "Latency_ms": "5.7",
+      "Distance_cm": "23.0",
+      "Amplitude_mv": "6.1",
+      "NCV_ms": "69.8"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Sural",
+      "Recording_Site": "Ankle",
+      "Stimulation_Site": "Calf",
+      "Latency_ms": "2.6",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "8.1",
+      "NCV_ms": "49.5"
+    },
+    {
+      "Nerve": "Bilateral radial sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Electromyography": []
+}

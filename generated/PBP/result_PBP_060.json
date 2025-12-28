@@ -1,0 +1,67 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\" \"",
+      "Stimulus_Site": "P. KNEE",
+      "Latency_ms": "10.6",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "1.0",
+      "NCV_ms": "50.3"
+    },
+    {
+      "Nerve_Muscles": "Lt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "12.9",
+      "Distance_cm": "40.0",
+      "Amplitude_mv": "4.6",
+      "NCV_ms": "49.9"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": [
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "left tibialis anterior (TA) and right first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR)",
+      "Interference": "reduced"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Nerve",
+      "Stimulus_Site": "Recording Site",
+      "Latency_ms": "Stimulation Site",
+      "Distance_cm": "ms",
+      "Amplitude_mv": "cm",
+      "NCV_ms": "Amplitude Vv"
+    },
+    {
+      "Nerve_Muscles": "Left posterior tibial (AH)",
+      "Stimulus_Site": null,
+      "Latency_ms": "prolonged",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP",
+      "NCV_ms": "slow"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "left first dorsal interosseous (FDI)",
+      "Fibs": "active denervation activity",
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": "neurogenic Motor Unit Action Potential (MUAPs)",
+      "Recruit": "rapid firing rate (RFR) recruitment",
+      "Interference": "reduced interference pattern"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "14.2",
+      "Distance_cm": "41.0",
+      "Amplitude_mv": "3.1",
+      "NCV_ms": "44.0"
+    },
+    {
+      "Nerve_Muscles": "",
+      "Stimulus_Site": "P. KNEE",
+      "Latency_ms": "18.6",
+      "Distance_cm": "9.0",
+      "Amplitude_mv": "1.4",
+      "NCV_ms": "40.1"
+    },
+    {
+      "Nerve_Muscles": "Lt. Peroneal EDB",
+      "Stimulus_Site": "A",
+      "Latency_ms": "3.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "1.6",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral ulnar sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": "F5",
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve": "Right median",
+      "Recording_Site": null,
+      "Stimulation_Site": "F2",
+      "Latency_ms": "normal peak",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP",
+      "NCV_ms": "normal"
+    },
+    {
+      "Nerve": "Bilateral ulnar",
+      "Recording_Site": null,
+      "Stimulation_Site": "(F5)",
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "left first dorsal interosseous (FDI) and extensor digitorum communis (EDC)",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "normal spontaneous activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "i Spontaneous Activity Motor Units ita Muscles |\" Fibs | Psw | Others | Amp | Duration | Polys. | Recruit | Interference Lt.FDI [| +2 [ +2 [ None | High | Long | No | RFR_| Reduced _ (RETA [| +3 | +3 [None | ~FewHigh | FewLong | =No | Normal | = [Rt.Gastroc [ +2 | +2 [ None | FewHigh | FewLong | No | Normal | =",
+      "Fibs": "Lt. FDI",
+      "Psw": "NR",
+      "Others": "NR",
+      "Amp": "None",
+      "Duration": "NR",
+      "Polys": "NR",
+      "Recruit": "NR",
+      "Interference": "NR"
+    },
+    {
+      "Muscles": "right tibialis anterior (TA) and gastrocnemius",
+      "Fibs": "active denervation activity",
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": "neurogenic Motor Unit Action Potential (MUAPs)",
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Bilateral peroneal (EDB)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latencies",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve_Muscles": "Bilateral posterior Tibial (AH)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latencies",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Sural",
+      "Recording_Site": "ANKLE",
+      "Stimulation_Site": "CALF",
+      "Latency_ms": "2.4",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "19.1",
+      "NCV_ms": "54.6"
+    },
+    {
+      "Nerve": "Bilateral ulnar (F5)",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "N/A",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "N/A",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "N/A"
+    },
+    {
+      "Muscles": "left gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with normal Motor Unit Action Potential (MUAPs), rapid firing rate (RFR)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR)",
+      "Interference": "reduced"
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "vastus lateralis (VL)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Lt. EDC",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    },
+    {
+      "Muscles": "gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    }
+  ]
+}

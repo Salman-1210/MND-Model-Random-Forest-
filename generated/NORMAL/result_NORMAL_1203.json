@@ -1,0 +1,90 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "'' '' '' '' ''",
+      "Stimulus_Site": "ELBOW",
+      "Latency_ms": "7.8",
+      "Distance_cm": "20.0",
+      "Amplitude_mv": "5.2",
+      "NCV_ms": "55.9"
+    },
+    {
+      "Nerve_Muscles": "“ “ “ “ “",
+      "Stimulus_Site": "D. ELBOW",
+      "Latency_ms": "7.3",
+      "Distance_cm": "21.0",
+      "Amplitude_mv": "6.3",
+      "NCV_ms": "52.8"
+    },
+    {
+      "Nerve_Muscles": "Rt. Peroneal EDB",
+      "Stimulus_Site": "Ankle",
+      "Latency_ms": "3.9",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "3.0",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral median",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": "were not recordable (NR)"
+    },
+    {
+      "Nerve": "Bilateral ulnar (F5)",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve": "Bilateral median (F2)",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve": "Lt. Sural",
+      "Recording_Site": "ANKLE",
+      "Stimulation_Site": "CALF",
+      "Latency_ms": "2.4",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "19.1",
+      "NCV_ms": "54.6"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Lt. Gastroc",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

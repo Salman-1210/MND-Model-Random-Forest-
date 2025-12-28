@@ -1,0 +1,85 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\"\"\"\"\"\"",
+      "Stimulus_Site": "Triceps",
+      "Latency_ms": "12.5",
+      "Distance_cm": "12.0",
+      "Amplitude_mv": "0.3",
+      "NCV_ms": "30.0"
+    },
+    {
+      "Nerve_Muscles": "“ “ “ “ “",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "15.1",
+      "Distance_cm": "41.0",
+      "Amplitude_mv": "1.0",
+      "NCV_ms": "36.4"
+    },
+    {
+      "Nerve_Muscles": "Rt. Peroneal EDB",
+      "Stimulus_Site": "DK",
+      "Latency_ms": "9.8",
+      "Distance_cm": "30.0",
+      "Amplitude_mv": "3.2",
+      "NCV_ms": "48.4"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Right median",
+      "Recording_Site": "(F2)",
+      "Stimulation_Site": "N/A",
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": "N/A",
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "right orbicularis oris (O.Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "Rt. TA",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "Few High",
+      "Duration": "Few Long",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

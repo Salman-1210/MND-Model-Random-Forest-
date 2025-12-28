@@ -1,0 +1,40 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Ulnar ADQ",
+      "Stimulus_Site": "PE",
+      "Latency_ms": "7.3",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "7.0",
+      "NCV_ms": "62.9"
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "E",
+      "Latency_ms": "8.9",
+      "Distance_cm": "24.0",
+      "Amplitude_mv": "6.1",
+      "NCV_ms": "47.5"
+    },
+    {
+      "Nerve_Muscles": "Rt. tibial AH",
+      "Stimulus_Site": "A",
+      "Latency_ms": "4.4",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "9.1",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral median",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": "were not recordable (NR)"
+    }
+  ],
+  "Electromyography": []
+}

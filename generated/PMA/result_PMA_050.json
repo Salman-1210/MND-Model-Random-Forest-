@@ -1,0 +1,82 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "W",
+      "Latency_ms": "2.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "5.2",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Left median (APB)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latency",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitude",
+      "NCV_ms": "slow conduction velocity"
+    },
+    {
+      "Nerve_Muscles": "Lt. Peroneal TA",
+      "Stimulus_Site": "D. KNEE",
+      "Latency_ms": "2.7",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "\" \" \" \" \" \"",
+      "Stimulus_Site": "P. ELBOW",
+      "Latency_ms": "7.6",
+      "Distance_cm": "9.5",
+      "Amplitude_mv": "3.0",
+      "NCV_ms": "55.7"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Right ulnar",
+      "Recording_Site": null,
+      "Stimulation_Site": "F2",
+      "Latency_ms": "normal peak",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP",
+      "NCV_ms": "normal"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "left tibialis anterior (TA) and right first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR)",
+      "Interference": "reduced"
+    },
+    {
+      "Muscles": "Rt. TPS",
+      "Fibs": "TD",
+      "Psw": "TD",
+      "Others": "TD",
+      "Amp": "TD",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "N/A",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "N/A",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "W",
+      "Latency_ms": "3.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "5.0",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Lt. Peroneal EDB",
+      "Stimulus_Site": "DK",
+      "Latency_ms": "8.9",
+      "Distance_cm": "28.0",
+      "Amplitude_mv": "4.4",
+      "NCV_ms": "52.0"
+    },
+    {
+      "Nerve_Muscles": "Lt. tibial AH",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "12.9",
+      "Distance_cm": "40.0",
+      "Amplitude_mv": "4.6",
+      "NCV_ms": "49.9"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral radial sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Electromyography": []
+}

@@ -1,0 +1,144 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Right median (APB) motor",
+      "Stimulus_Site": "",
+      "Latency_ms": "normal",
+      "Distance_cm": "",
+      "Amplitude_mv": "low",
+      "NCV_ms": "normal"
+    },
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "Ankle",
+      "Latency_ms": "4.3",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "3.7",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Left radial (EIP)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latency",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitude",
+      "NCV_ms": "slow conduction velocity"
+    },
+    {
+      "Nerve_Muscles": "Right ulnar (ADQ)",
+      "Stimulus_Site": "N/A",
+      "Latency_ms": "normal distal latency",
+      "Distance_cm": "N/A",
+      "Amplitude_mv": "normal CMAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Sural",
+      "Recording_Site": "Ankle",
+      "Stimulation_Site": "Calf",
+      "Latency_ms": "2.6",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "8.1",
+      "NCV_ms": "49.5"
+    },
+    {
+      "Nerve": "Right ulnar",
+      "Recording_Site": "",
+      "Stimulation_Site": "F5",
+      "Latency_ms": "NR",
+      "Distance_cm": "",
+      "Amplitude_uv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve": "Right sural",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. TA",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "No",
+      "Interference": "RFR"
+    },
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "right tibialis anterior (TA) and gastrocnemius",
+      "Fibs": "active denervation activity",
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": "neurogenic Motor Unit Action Potential (MUAPs)",
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "Lt. FDI",
+      "Fibs": "+2",
+      "Psw": "+2",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    },
+    {
+      "Muscles": "left gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with normal Motor Unit Action Potential (MUAPs), rapid firing rate (RFR)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR)",
+      "Interference": "reduced"
+    },
+    {
+      "Muscles": "gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    }
+  ]
+}

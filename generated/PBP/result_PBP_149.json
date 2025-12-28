@@ -1,0 +1,82 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\" \"",
+      "Stimulus_Site": "P. KNEE",
+      "Latency_ms": "10.6",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "1.0",
+      "NCV_ms": "50.3"
+    },
+    {
+      "Nerve_Muscles": "Right peroneal (EDB)",
+      "Stimulus_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_mv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve_Muscles": "Rt. Radial EIP",
+      "Stimulus_Site": "Forearm",
+      "Latency_ms": "5.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "0.5",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Nerve",
+      "Stimulus_Site": "Recording Site",
+      "Latency_ms": "Stimulation Site",
+      "Distance_cm": "ms",
+      "Amplitude_mv": "cm",
+      "NCV_ms": "Amplitude Vv"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral radial sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right orbicularis oris (O.Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. TA",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    }
+  ]
+}

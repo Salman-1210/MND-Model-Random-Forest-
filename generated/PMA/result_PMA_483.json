@@ -1,0 +1,115 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": "3.1",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "5.1",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Bilateral posterior Tibial (AH)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latencies",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve_Muscles": "Lt. Peroneal EDB",
+      "Stimulus_Site": "DK",
+      "Latency_ms": "10.3",
+      "Distance_cm": "30.0",
+      "Amplitude_mv": "1.5",
+      "NCV_ms": "44.7"
+    },
+    {
+      "Nerve_Muscles": "“ “ “ “",
+      "Stimulus_Site": "Triceps",
+      "Latency_ms": "12.5",
+      "Distance_cm": "12.0",
+      "Amplitude_mv": "0.3",
+      "NCV_ms": "30.0"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Bilateral ulnar sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": "F5",
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. TA",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "No",
+      "Interference": "RFR"
+    },
+    {
+      "Muscles": "N/A",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "N/A",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "N/A"
+    },
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. VL",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "vastus lateralis (VL)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Gastroc",
+      "Fibs": "+2",
+      "Psw": "+2",
+      "Others": "None",
+      "Amp": "Few High",
+      "Duration": "Few Long",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

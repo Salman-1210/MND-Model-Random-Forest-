@@ -1,0 +1,117 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\"\"\"\"",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": "6.8",
+      "Distance_cm": "11.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "35.2"
+    },
+    {
+      "Nerve_Muscles": "Right radial (EIP)",
+      "Stimulus_Site": null,
+      "Latency_ms": "prolonged distal latency",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitude",
+      "NCV_ms": "slow conduction velocity"
+    },
+    {
+      "Nerve_Muscles": "VV VV VV VA",
+      "Stimulus_Site": "Triceps",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "'' '' '' '' ''",
+      "Stimulus_Site": "D. KNEE",
+      "Latency_ms": "11.2",
+      "Distance_cm": "31.0",
+      "Amplitude_mv": "0.1",
+      "NCV_ms": "45.8"
+    },
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "A",
+      "Latency_ms": "5.0",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "10.2",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Right sural",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve": "Bilateral ulnar",
+      "Recording_Site": null,
+      "Stimulation_Site": "(F5)",
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve": "Bilateral median (F2)",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_uv": null,
+      "NCV_ms": null
+    },
+    {
+      "Nerve": "Right sural sensory nerve",
+      "Recording_Site": null,
+      "Stimulation_Site": null,
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "no motor units record",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Lt. EDC",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    },
+    {
+      "Muscles": "Rt. TA",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "No",
+      "Interference": "RFR"
+    }
+  ]
+}

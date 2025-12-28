@@ -1,0 +1,22 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Peroneal EDB",
+      "Stimulus_Site": "ANKLE",
+      "Latency_ms": "4.7",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "4.7",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "E",
+      "Latency_ms": "5.7",
+      "Distance_cm": "23.0",
+      "Amplitude_mv": "6.1",
+      "NCV_ms": "69.8"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": []
+}

@@ -1,0 +1,106 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "E",
+      "Latency_ms": "6.8",
+      "Distance_cm": "23.0",
+      "Amplitude_mv": "4.4",
+      "NCV_ms": "55.5"
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "E",
+      "Latency_ms": "8.9",
+      "Distance_cm": "24.0",
+      "Amplitude_mv": "6.1",
+      "NCV_ms": "47.5"
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADQ",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": "3.4",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "6.4",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "“ “ “ “ “",
+      "Stimulus_Site": "D. ELBOW",
+      "Latency_ms": "7.3",
+      "Distance_cm": "21.0",
+      "Amplitude_mv": "6.3",
+      "NCV_ms": "52.8"
+    },
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "K",
+      "Latency_ms": "15.3",
+      "Distance_cm": "42.0",
+      "Amplitude_mv": "9.3",
+      "NCV_ms": "45.3"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "Wrist",
+      "Latency_ms": "2.6",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "31.8",
+      "NCV_ms": "53.9"
+    },
+    {
+      "Nerve": "Right median",
+      "Recording_Site": "N/A",
+      "Stimulation_Site": "F2",
+      "Latency_ms": "normal peak latency",
+      "Distance_cm": "N/A",
+      "Amplitude_uv": "normal SNAP amplitude",
+      "NCV_ms": "normal conduction velocity"
+    },
+    {
+      "Nerve": "Right sural",
+      "Recording_Site": "",
+      "Stimulation_Site": "",
+      "Latency_ms": "NR",
+      "Distance_cm": "",
+      "Amplitude_uv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve": "Rt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "Wrist",
+      "Latency_ms": "2.2",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "17.0",
+      "NCV_ms": "64.6"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "right first dorsal interosseous (FDI), biceps, and tibialis anterior (TA)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR) recruitment",
+      "Interference": "reduced interference pattern"
+    },
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

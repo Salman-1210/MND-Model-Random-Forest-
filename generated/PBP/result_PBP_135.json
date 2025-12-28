@@ -1,0 +1,85 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\"\"\"\"\"\"",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": "10.0",
+      "Distance_cm": "25.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "42.3"
+    },
+    {
+      "Nerve_Muscles": "۱۱۱۱ ۱۱",
+      "Stimulus_Site": "Triceps",
+      "Latency_ms": "9.4",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "38.3"
+    },
+    {
+      "Nerve_Muscles": "Lt. Ulnar ADQ",
+      "Stimulus_Site": "Wrist",
+      "Latency_ms": "3.1",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "2.4",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "Wrist",
+      "Latency_ms": "2.3",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "38.1.",
+      "NCV_ms": "62.0"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Lt. Gastroc",
+      "Fibs": "+",
+      "Psw": "+",
+      "Others": "None",
+      "Amp": "High",
+      "Duration": "Long",
+      "Polys": "No",
+      "Recruit": "RFR",
+      "Interference": "Reduced"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "'' '' '' '' ''",
+      "Stimulus_Site": "ELBOW",
+      "Latency_ms": "7.8",
+      "Distance_cm": "20.0",
+      "Amplitude_mv": "5.2",
+      "NCV_ms": "55.9"
+    },
+    {
+      "Nerve_Muscles": "\" \" \" \" \" \"",
+      "Stimulus_Site": "P. ELBOW",
+      "Latency_ms": "9.8",
+      "Distance_cm": "10.5",
+      "Amplitude_mv": "2.8",
+      "NCV_ms": "49.9"
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADQ",
+      "Stimulus_Site": "W",
+      "Latency_ms": "2.8",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "9.4",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "WRIST",
+      "Latency_ms": "2.1",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "38.4",
+      "NCV_ms": "65.5"
+    }
+  ],
+  "Electromyography": []
+}

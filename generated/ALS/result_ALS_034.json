@@ -1,0 +1,124 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Stimulus Latenc Distance | Amplitude NCV F.LAT. Duration | Rt.MedianAPB [| Wrist [| NR | NR | NR | NR | - [| = | _Rt.UlnarADQ [Wrist [| 24 | 70 | 15 | - | - | = Pp SSS D.Elbow [727 | 24.009 5003 - PSS P.Elbow [94 | 8 |e | _RtRadialEIP | Forearm | 5.6 | 70 #2x| O05 [| - | - | =: J SS [Elbow [94 T1800 | 084 PS [Triceps | 125) | S120 S| 3 000 Ce | Rt.Post.tibial AH [Ankle [43 =| 70 =| = = 3.7 ST TC a ee ee | ee ee 7 ee ee es ee Eee |_Rt PeronealEDB [| Ankle -]| 39. | 7.0. | 30 |e de PS DKnee [119 | 35048 Pog SSS | PKnee | 138. | 2 90. | 13 | AOS de | ItMedigtAPB | Wrist | 44 | 70-43 fs ee Pe SS | Elbow, | | 10.0 |: 280 . | 09-48 | | Lt.UlnarADQ | Wrist, | 3.1 | 70 TCC PCT Elbow | 880] 40347 Pee OP Elbow | 90.8 yO) A Ad [| Lt.RadialEIP_ [Forearm [| 36 | 7.0 | 14 #,| - | - | - | a Rs = es ee << ee eee ee ea a es | ee ee eee",
+      "Stimulus_Site": "Rt. Peroneal EDB",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "Lt. Radial EIP",
+      "Stimulus_Site": "Forearm",
+      "Latency_ms": "3.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "1.4",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "\"",
+      "Stimulus_Site": "P. ELBOW",
+      "Latency_ms": "10.5",
+      "Distance_cm": "9.5",
+      "Amplitude_mv": "0.3",
+      "NCV_ms": "52.2"
+    },
+    {
+      "Nerve_Muscles": "\"\"\"\"\"\"",
+      "Stimulus_Site": "D. Elbow",
+      "Latency_ms": "7.2",
+      "Distance_cm": "24.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "50.3"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Radial",
+      "Recording_Site": "Snuff Box",
+      "Stimulation_Site": "Fore Arm",
+      "Latency_ms": "2.0",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "30.5",
+      "NCV_ms": "66.5"
+    },
+    {
+      "Nerve": "Lt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "W",
+      "Latency_ms": "2.6",
+      "Distance_cm": "13.0",
+      "Amplitude_uv": "13.5",
+      "NCV_ms": "50.7"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "vastus lateralis (VL)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. FDI",
+      "Fibs": "+4",
+      "Psw": "+4",
+      "Others": "None",
+      "Amp": null,
+      "Duration": "No Motor Units",
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "N/A",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "N/A",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "N/A"
+    },
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "left gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with normal Motor Unit Action Potential (MUAPs), rapid firing rate (RFR)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR)",
+      "Interference": "reduced"
+    },
+    {
+      "Muscles": "left tibialis anterior (TA) and right first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR)",
+      "Interference": "reduced"
+    }
+  ]
+}

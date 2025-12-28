@@ -1,0 +1,106 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "\" \"",
+      "Stimulus_Site": "P. KNEE",
+      "Latency_ms": "10.6",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "1.0",
+      "NCV_ms": "50.3"
+    },
+    {
+      "Nerve_Muscles": "Right median (APB)",
+      "Stimulus_Site": null,
+      "Latency_ms": null,
+      "Distance_cm": null,
+      "Amplitude_mv": "not recordable (NR)",
+      "NCV_ms": null
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "Wrist",
+      "Latency_ms": "2.6",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "31.8",
+      "NCV_ms": "53.9"
+    },
+    {
+      "Nerve": "Bilateral ulnar sensory nerves",
+      "Recording_Site": null,
+      "Stimulation_Site": "F5",
+      "Latency_ms": "normal peak latencies",
+      "Distance_cm": null,
+      "Amplitude_uv": "normal SNAP amplitudes",
+      "NCV_ms": "normal conduction velocities"
+    },
+    {
+      "Nerve": "Rt. Sural",
+      "Recording_Site": "A",
+      "Stimulation_Site": "Calf",
+      "Latency_ms": "3.3",
+      "Distance_cm": "14.0",
+      "Amplitude_uv": "12.2",
+      "NCV_ms": "42.9"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. FDI",
+      "Fibs": "+4",
+      "Psw": "+4",
+      "Others": "None",
+      "Amp": null,
+      "Duration": "No Motor Units",
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "Rt. Biceps",
+      "Fibs": "++",
+      "Psw": "++",
+      "Others": "Nil",
+      "Amp": "None",
+      "Duration": "High",
+      "Polys": "Long",
+      "Recruit": "No",
+      "Interference": "RFR"
+    },
+    {
+      "Muscles": "left gastrocnemius",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation, with normal Motor Unit Action Potential (MUAPs), rapid firing rate (RFR)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "rapid firing rate (RFR)",
+      "Interference": "reduced"
+    },
+    {
+      "Muscles": "N/A",
+      "Fibs": "N/A",
+      "Psw": "N/A",
+      "Others": "N/A",
+      "Amp": "N/A",
+      "Duration": "N/A",
+      "Polys": "N/A",
+      "Recruit": "N/A",
+      "Interference": "N/A"
+    }
+  ]
+}

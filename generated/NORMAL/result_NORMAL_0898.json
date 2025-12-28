@@ -1,0 +1,30 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Peroneal EDB",
+      "Stimulus_Site": "PK",
+      "Latency_ms": "10.2",
+      "Distance_cm": "8.0",
+      "Amplitude_mv": "3.8",
+      "NCV_ms": "58.7"
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": "3.1",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "5.1",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "KNEE",
+      "Latency_ms": "14.2",
+      "Distance_cm": "41.0",
+      "Amplitude_mv": "3.1",
+      "NCV_ms": "44.0"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": []
+}

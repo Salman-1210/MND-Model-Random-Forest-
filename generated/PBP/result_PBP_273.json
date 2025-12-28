@@ -1,0 +1,112 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Stimulus Latenc Distance | Amplitude NCV F.LAT. Duration | Rt.MedianAPB [| Wrist [| NR | NR | NR | NR | - [| = | _Rt.UlnarADQ [Wrist [| 24 | 70 | 15 | - | - | = Pp SSS D.Elbow [727 | 24.009 5003 - PSS P.Elbow [94 | 8 |e | _RtRadialEIP | Forearm | 5.6 | 70 #2x| O05 [| - | - | =: J SS [Elbow [94 T1800 | 084 PS [Triceps | 125) | S120 S| 3 000 Ce | Rt.Post.tibial AH [Ankle [43 =| 70 =| = = 3.7 ST TC a ee ee | ee ee 7 ee ee es ee Eee |_Rt PeronealEDB [| Ankle -]| 39. | 7.0. | 30 |e de PS DKnee [119 | 35048 Pog SSS | PKnee | 138. | 2 90. | 13 | AOS de | ItMedigtAPB | Wrist | 44 | 70-43 fs ee Pe SS | Elbow, | | 10.0 |: 280 . | 09-48 | | Lt.UlnarADQ | Wrist, | 3.1 | 70 TCC PCT Elbow | 880] 40347 Pee OP Elbow | 90.8 yO) A Ad [| Lt.RadialEIP_ [Forearm [| 36 | 7.0 | 14 #,| - | - | - | a Rs = es ee << ee eee ee ea a es | ee ee eee",
+      "Stimulus_Site": "Rt. Peroneal EDB",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "Ankle",
+      "Latency_ms": "4.3",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "3.7",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "D. Elbow",
+      "Stimulus_Site": "D. Elbow",
+      "Latency_ms": "NR",
+      "Distance_cm": "NR",
+      "Amplitude_mv": "NR",
+      "NCV_ms": "NR"
+    },
+    {
+      "Nerve_Muscles": "۱۱۱۱ ۱۱",
+      "Stimulus_Site": "Triceps",
+      "Latency_ms": "9.4",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "38.3"
+    },
+    {
+      "Nerve_Muscles": "“ “ “ “",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": "10.0",
+      "Distance_cm": "25.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "42.3"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Lt. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "W",
+      "Latency_ms": "2.0",
+      "Distance_cm": "12.0",
+      "Amplitude_uv": "13.4",
+      "NCV_ms": "59.5"
+    }
+  ],
+  "Electromyography": [
+    {
+      "Muscles": "Rt. Orbi. Oris",
+      "Fibs": "+3",
+      "Psw": "+3",
+      "Others": "None",
+      "Amp": "-",
+      "Duration": "-",
+      "Polys": "-",
+      "Recruit": "-",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "Rt. O. Oris",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    },
+    {
+      "Muscles": "right orbicularis oris (Orbi. Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "right orbicularis oris (O.Oris)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "normal spontaneous activity, with normal Motor Unit Action Potential (MUAPs)",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "Rt. TA",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Others": "None",
+      "Amp": "Normal",
+      "Duration": "Normal",
+      "Polys": "No",
+      "Recruit": "Normal",
+      "Interference": "-"
+    }
+  ]
+}

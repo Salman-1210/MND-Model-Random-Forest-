@@ -1,0 +1,83 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Radial EIP",
+      "Stimulus_Site": "Forearm",
+      "Latency_ms": "3.6",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "1.4",
+      "NCV_ms": "-"
+    },
+    {
+      "Nerve_Muscles": "Left posterior tibial (AH)",
+      "Stimulus_Site": null,
+      "Latency_ms": "prolonged",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP",
+      "NCV_ms": "slow"
+    },
+    {
+      "Nerve_Muscles": "Left radial (EIP)",
+      "Stimulus_Site": null,
+      "Latency_ms": "normal distal latency",
+      "Distance_cm": null,
+      "Amplitude_mv": "low CMAP amplitude",
+      "NCV_ms": "slow conduction velocity"
+    },
+    {
+      "Nerve_Muscles": "\"\"\"\"",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": "6.8",
+      "Distance_cm": "11.0",
+      "Amplitude_mv": "0.9",
+      "NCV_ms": "35.2"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": [
+    {
+      "Muscles": "right tibialis anterior (TA) and gastrocnemius",
+      "Fibs": "active denervation activity",
+      "Psw": null,
+      "Others": null,
+      "Amp": null,
+      "Duration": null,
+      "Polys": "neurogenic Motor Unit Action Potential (MUAPs)",
+      "Recruit": "normal recruitment",
+      "Interference": "normal interference pattern"
+    },
+    {
+      "Muscles": "biceps",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "right first dorsal interosseous (FDI)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "no motor units record",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    },
+    {
+      "Muscles": "vastus lateralis (VL)",
+      "Fibs": null,
+      "Psw": null,
+      "Others": "active denervation activity, with neurogenic Motor Unit Action Potential (MUAPs), rapid firing rate (RFR) recruitment and reduced interference pattern",
+      "Amp": null,
+      "Duration": null,
+      "Polys": null,
+      "Recruit": null,
+      "Interference": null
+    }
+  ]
+}

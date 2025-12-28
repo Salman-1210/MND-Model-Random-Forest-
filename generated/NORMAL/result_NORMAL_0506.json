@@ -1,0 +1,14 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Ulnar ADQ",
+      "Stimulus_Site": "W",
+      "Latency_ms": "2.5",
+      "Distance_cm": "7.0",
+      "Amplitude_mv": "7.0",
+      "NCV_ms": "-"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": []
+}

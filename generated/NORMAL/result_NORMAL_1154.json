@@ -1,0 +1,22 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Peroneal EDB",
+      "Stimulus_Site": "D. KNEE",
+      "Latency_ms": "11.5",
+      "Distance_cm": "32.0",
+      "Amplitude_mv": "3.4",
+      "NCV_ms": "46.5"
+    },
+    {
+      "Nerve_Muscles": "Rt. Peroneal EDB",
+      "Stimulus_Site": "DK",
+      "Latency_ms": "9.8",
+      "Distance_cm": "30.0",
+      "Amplitude_mv": "3.2",
+      "NCV_ms": "48.4"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": []
+}

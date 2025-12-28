@@ -1,0 +1,104 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "Wrist",
+      "Latency_ms": 3.9,
+      "Distance_cm": 22.5,
+      "Amplitude_mv": 5.8,
+      "NCV_ms": 58
+    },
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": 7.8,
+      "Distance_cm": 22.5,
+      "Amplitude_mv": 5.3,
+      "NCV_ms": 58
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "Wrist",
+      "Latency_ms": 4.8,
+      "Distance_cm": 23.0,
+      "Amplitude_mv": 3.8,
+      "NCV_ms": 61
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": 8.6,
+      "Distance_cm": 23.0,
+      "Amplitude_mv": 3.6,
+      "NCV_ms": 61
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADM",
+      "Stimulus_Site": "Wrist",
+      "Latency_ms": 3.0,
+      "Distance_cm": 19.0,
+      "Amplitude_mv": 9.8,
+      "NCV_ms": 56
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADM",
+      "Stimulus_Site": "Below Elbow",
+      "Latency_ms": 6.4,
+      "Distance_cm": 12.0,
+      "Amplitude_mv": 9.7,
+      "NCV_ms": 55
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADM",
+      "Stimulus_Site": "Above Elbow",
+      "Latency_ms": 8.6,
+      "Distance_cm": 12.0,
+      "Amplitude_mv": 9.2,
+      "NCV_ms": 55
+    }
+  ],
+
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Median",
+      "Latency_ms": 2.8,
+      "Amplitude_uv": 36.1,
+      "NCV_ms": 37
+    },
+    {
+      "Nerve": "Lt. Median",
+      "Latency_ms": 3.6,
+      "Amplitude_uv": 48.4,
+      "NCV_ms": 39
+    },
+    {
+      "Nerve": "Rt. Ulnar",
+      "Latency_ms": 3.4,
+      "Amplitude_uv": 43.8,
+      "NCV_ms": 41
+    }
+  ],
+
+  "Electromyography": [
+    {
+      "Muscles": "Right Deltoid",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Right Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Right ExtDigCom",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Right First Dorsal Interosseous",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Ulnar ADQ",
+      "Stimulus_Site": "PE",
+      "Latency_ms": "7.3",
+      "Distance_cm": "10.0",
+      "Amplitude_mv": "7.0",
+      "NCV_ms": "62.9"
+    },
+    {
+      "Nerve_Muscles": "Rt. Peroneal EDB",
+      "Stimulus_Site": "DK",
+      "Latency_ms": "13.2",
+      "Distance_cm": "32.0",
+      "Amplitude_mv": "5.5",
+      "NCV_ms": "41.1"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": []
+}

@@ -1,0 +1,14 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Post. tibial AH",
+      "Stimulus_Site": "K",
+      "Latency_ms": "15.3",
+      "Distance_cm": "42.0",
+      "Amplitude_mv": "9.3",
+      "NCV_ms": "45.3"
+    }
+  ],
+  "Sensory_Nerve_Conduction_Studies": [],
+  "Electromyography": []
+}

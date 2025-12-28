@@ -1,0 +1,127 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "RL. Median APB",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": 3.1,
+      "Distance_cm": 7.0,
+      "Amplitude_mv": 7.4,
+      "NCV_ms": 56.4
+    },
+    {
+      "Nerve_Muscles": "RL. Median APB",
+      "Stimulus_Site": "ELBOW",
+      "Latency_ms": 2.6,
+      "Distance_cm": 7.0,
+      "Amplitude_mv": 7.3,
+      "NCV_ms": 58.3
+    },
+    {
+      "Nerve_Muscles": "RL. Ulnar ADQ",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": 2.3,
+      "Distance_cm": 24.0,
+      "Amplitude_mv": 7.3,
+      "NCV_ms": 54.9
+    },
+    {
+      "Nerve_Muscles": "RL. Ulnar ADQ",
+      "Stimulus_Site": "ELBOW",
+      "Latency_ms": 3.6,
+      "Distance_cm": 8.9,
+      "Amplitude_mv": 6.3,
+      "NCV_ms": 56.9
+    },
+    {
+      "Nerve_Muscles": "RL. Peroneal EDB",
+      "Stimulus_Site": "ANKLE",
+      "Latency_ms": 3.6,
+      "Distance_cm": 8.9,
+      "Amplitude_mv": 6.0,
+      "NCV_ms": 46.3
+    },
+    {
+      "Nerve_Muscles": "RL. Peroneal EDB",
+      "Stimulus_Site": "D. KNEE",
+      "Latency_ms": 4.0,
+      "Distance_cm": 30.0,
+      "Amplitude_mv": 6.0,
+      "NCV_ms": 45.3
+    }
+  ],
+
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "RL. Median",
+      "Recording_Site": "F2",
+      "Stimulation_Site": "WRIST",
+      "Latency_ms": 2.5,
+      "Amplitude_uv": 24.0,
+      "NCV_ms": 56.0
+    },
+    {
+      "Nerve": "RL. Ulnar",
+      "Recording_Site": "F5",
+      "Stimulation_Site": "WRIST",
+      "Latency_ms": 2.1,
+      "Amplitude_uv": 21.5,
+      "NCV_ms": 68.5
+    },
+    {
+      "Nerve": "RL. Sural",
+      "Recording_Site": "ANKLE",
+      "Stimulation_Site": "CALF",
+      "Latency_ms": 2.8,
+      "Amplitude_uv": 16.8,
+      "NCV_ms": 55.2
+    }
+  ],
+
+  "Electromyography": [
+    {
+      "Muscles": "Tongue",
+      "Fibs": "+++",
+      "Psw": "+++",
+      "Fasciculations": "None",
+      "Others": "Normal",
+      "Amp": "High",
+      "Duration": "Reduced"
+    },
+    {
+      "Muscles": "Genioglossus",
+      "Fibs": "+++",
+      "Psw": "+++",
+      "Fasciculations": "None",
+      "Others": "Normal",
+      "Amp": "High",
+      "Duration": "Reduced"
+    },
+    {
+      "Muscles": "Orbicularis Oris",
+      "Fibs": "+++",
+      "Psw": "+++",
+      "Fasciculations": "None",
+      "Others": "Normal",
+      "Amp": "High",
+      "Duration": "Reduced"
+    },
+    {
+      "Muscles": "RL. FDI",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Fasciculations": "None",
+      "Others": "Normal",
+      "Amp": "Full",
+      "Duration": "Reduced"
+    },
+    {
+      "Muscles": "RL. TA",
+      "Fibs": "Nil",
+      "Psw": "Nil",
+      "Fasciculations": "None",
+      "Others": "Normal",
+      "Amp": "Full",
+      "Duration": "Reduced"
+    }
+  ]
+}

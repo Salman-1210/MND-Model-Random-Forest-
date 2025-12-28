@@ -1,0 +1,91 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "Wrist",
+      "Latency_ms": 3.3,
+      "Distance_cm": 23.0,
+      "Amplitude_mv": 7.2,
+      "NCV_ms": 52
+    },
+    {
+      "Nerve_Muscles": "Lt. Median APB",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": 7.7,
+      "Distance_cm": 23.0,
+      "Amplitude_mv": 6.6,
+      "NCV_ms": 52
+    },
+
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "Wrist",
+      "Latency_ms": 3.4,
+      "Distance_cm": 21.5,
+      "Amplitude_mv": 9.2,
+      "NCV_ms": 52
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "Elbow",
+      "Latency_ms": 7.5,
+      "Distance_cm": 21.5,
+      "Amplitude_mv": 9.1,
+      "NCV_ms": 52
+    },
+
+    {
+      "Nerve_Muscles": "Lt. Ulnar ADM",
+      "Stimulus_Site": "Wrist",
+      "Latency_ms": 3.3,
+      "Distance_cm": 19.5,
+      "Amplitude_mv": 7.5,
+      "NCV_ms": 59
+    },
+    {
+      "Nerve_Muscles": "Lt. Ulnar ADM",
+      "Stimulus_Site": "Below Elbow",
+      "Latency_ms": 6.6,
+      "Distance_cm": 12.0,
+      "Amplitude_mv": 7.3,
+      "NCV_ms": 60
+    },
+    {
+      "Nerve_Muscles": "Lt. Ulnar ADM",
+      "Stimulus_Site": "Above Elbow",
+      "Latency_ms": 8.6,
+      "Distance_cm": 12.0,
+      "Amplitude_mv": 6.8,
+      "NCV_ms": 60
+    },
+
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADM",
+      "Stimulus_Site": "Wrist",
+      "Latency_ms": 3.0,
+      "Distance_cm": 20.0,
+      "Amplitude_mv": 7.8,
+      "NCV_ms": 59
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADM",
+      "Stimulus_Site": "Below Elbow",
+      "Latency_ms": 6.4,
+      "Distance_cm": 12.5,
+      "Amplitude_mv": 7.3,
+      "NCV_ms": 52
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADM",
+      "Stimulus_Site": "Above Elbow",
+      "Latency_ms": 8.8,
+      "Distance_cm": 12.5,
+      "Amplitude_mv": 7.1,
+      "NCV_ms": 52
+    }
+  ],
+
+  "Sensory_Nerve_Conduction_Studies": [],
+
+  "Electromyography": []
+}

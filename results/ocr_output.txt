@@ -1,0 +1,303 @@
+R00C00: ee _ _ _ _ _ _ _ _ __ EEE eEEE eee __ ee ee _ ee
+
+R01C00: ee 6 SPSS ORD S Se ST ea SES CT Sk OS RE I Pi Sa
+
+R02C00: 
+R02C01: Stimulus site
+R02C02: ms
+R02C03: cm
+R02C04: Amplitude mv
+R02C05: ms
+R02C06: F.LAT. ms
+R02C07: ms
+
+R03C00: Rt. Median APB
+R03C01: 
+R03C02: 
+R03C03: 
+R03C04: 
+R03C05: 
+R03C06: aes |
+R03C07: 1 ete ed
+
+R04C00: Rt. Ulnar ADQ
+R04C01: 
+R04C02: 
+R04C03: 
+R04C04: 
+R04C05: |
+R04C06: ae |
+R04C07: Vie ee |
+
+R05C00: po
+R05C01: D. Elbow
+R05C02: 
+R05C03: 
+R05C04: 
+R05C05: 
+R05C06: | ee |
+R05C07: eee
+
+R06C00: 
+R06C01: P,. Elbow
+R06C02: 
+R06C03: 
+R06C04: 
+R06C05: 
+R06C06: | a
+R06C07: [ ae eee
+
+R07C00: Rt. Radial EIP
+R07C01: Forearm
+R07C02: 
+R07C03: 
+R07C04: 
+R07C05: too -
+R07C06: ra |
+R07C07: 1 eee |
+
+R08C00: 
+R08C01: 
+R08C02: 
+R08C03: 
+R08C04: 
+R08C05: 
+R08C06: aes |
+R08C07: | = |
+
+R09C00: VV VV VV VA
+R09C01: Triceps
+R09C02: 
+R09C03: 
+R09C04: 
+R09C05: 
+R09C06: |
+R09C07: {oo - |
+
+R10C00: Rt. Post. tibial AH
+R10C01: 
+R10C02: 
+R10C03: 
+R10C04: 
+R10C05: tooo.
+R10C06: aaa |
+R10C07: Vee
+
+R11C00: 
+R11C01: 
+R11C02: 
+R11C03: 
+R11C04: 
+R11C05: 
+R11C06: eae
+R11C07: Toe ed
+
+R12C00: Stimulus Latenc Distance | Amplitude NCV F.LAT. Duration | Rt.MedianAPB [| Wrist [| NR | NR | NR | NR | - [| = | _Rt.UlnarADQ [Wrist [| 24 | 70 | 15 | - | - | = Pp SSS D.Elbow [727 | 24.009 5003 - PSS P.Elbow [94 | 8 |e | _RtRadialEIP | Forearm | 5.6 | 70 #2x| O05 [| - | - | =: J SS [Elbow [94 T1800 | 084 PS [Triceps | 125) | S120 S| 3 000 Ce | Rt.Post.tibial AH [Ankle [43 =| 70 =| = = 3.7 ST TC a ee ee | ee ee 7 ee ee es ee Eee |_Rt PeronealEDB [| Ankle -]| 39. | 7.0. | 30 |e de PS DKnee [119 | 35048 Pog SSS | PKnee | 138. | 2 90. | 13 | AOS de | ItMedigtAPB | Wrist | 44 | 70-43 fs ee Pe SS | Elbow, | | 10.0 |: 280 . | 09-48 | | Lt.UlnarADQ | Wrist, | 3.1 | 70 TCC PCT Elbow | 880] 40347 Pee OP Elbow | 90.8 yO) A Ad [| Lt.RadialEIP_ [Forearm [| 36 | 7.0 | 14 #,| - | - | - | a Rs = es ee << ee eee ee ea a es | ee ee eee
+R12C01: Rt. Peroneal EDB
+R12C02: 
+R12C03: 
+R12C04: 
+R12C05: 
+R12C06: | -
+R12C07: Tg ee
+R12C08: ees
+
+R13C00: 
+R13C01: 
+R13C02: 
+R13C03: 
+R13C04: 
+R13C05: 
+R13C06: | eee
+R13C07: eee?
+
+R14C00: 
+R14C01: 
+R14C02: 
+R14C03: 
+R14C04: 
+R14C05: 
+R14C06: | ares |
+R14C07: Le ee |
+
+R15C00: Lt. Median APB
+R15C01: 
+R15C02: 
+R15C03: 
+R15C04: 
+R15C05: eae |
+R15C06: | ee
+R15C07: de tai se ge |
+
+R16C00: 
+R16C01: 
+R16C02: 
+R16C03: 
+R16C04: 
+R16C05: 
+R16C06: eee |
+R16C07: Pas eel
+
+R17C00: Lt. Ulnar ADQ
+R17C01: 
+R17C02: 
+R17C03: 
+R17C04: 
+R17C05: too.
+R17C06: aaa i
+R17C07: | ees
+
+R18C00: 
+R18C01: D. Elbow
+R18C02: 
+R18C03: 
+R18C04: 
+R18C05: 
+R18C06: alae |
+R18C07: i ara
+
+R19C00: 
+R19C01: P. Elbow
+R19C02: 
+R19C03: 
+R19C04: 
+R19C05: 
+R19C06: area |
+R19C07: To nee eed
+
+R20C00: Lt. Radial EIP
+R20C01: Forearm
+R20C02: 
+R20C03: 
+R20C04: 
+R20C05: {oo -
+R20C06: aaa |
+R20C07: [cee ce |
+
+R21C00: 
+R21C01: | Elbow |
+R21C02: 
+R21C03: 
+R21C04: 
+R21C05: 
+R21C06: ae |
+R21C07: [eee
+
+R22C00: 
+R22C01: Triceps
+R22C02: 
+R22C03: 
+R22C04: 
+R22C05: 
+R22C06: aaa:
+R22C07: bes cwae
+
+R23C00: Nerve
+R23C01: Recording Site
+R23C02: Stimulation Site
+R23C03: ms
+R23C04: cm
+R23C05: Amplitude Vv
+R23C06: ms
+
+R24C00: 
+R24C01: 
+R24C02: 
+R24C03: 
+R24C04: 
+R24C05: 
+R24C06: 
+
+R25C00: |Rt Ulnar
+R25C01: 
+R25C02: 
+R25C03: 
+R25C04: | 14.0
+R25C05: 
+R25C06: 
+
+R26C00: VWOMSULyY NSCIVS VUITUUGUUITT VLUUICS Site Site ms cm Vv ms (RtUlnr < i:S (SS Wrist S| 17.0 | 4
+R26C01: Rt. Radial
+R26C02: 
+R26C03: 
+R26C04: 
+R26C05: 
+R26C06: 
+R26C07: 
+
+R27C00: 
+R27C01: 
+R27C02: 
+R27C03: 
+R27C04: 
+R27C05: 
+R27C06: 
+
+R28C00: 
+R28C01: 
+R28C02: 
+R28C03: 
+R28C04: 
+R28C05: 
+R28C06: 
+
+R29C00: 
+R29C01: 
+R29C02: 
+R29C03: 
+R29C04: 
+R29C05: 
+R29C06: 
+
+R30C00: Lt. Radial
+R30C01: Snuff Box
+R30C02: 
+R30C03: 
+R30C04: 
+R30C05: 
+R30C06: 
+
+R31C00: Muscles
+R31C01: Spontaneous Activity
+R31C02: Motor Units
+R31C03: 
+
+R32C00: 
+R32C01: 
+R32C02: 
+R32C03: 
+R32C04: | Duration |
+R32C05: 
+R32C06: 
+
+R33C00: i Spontaneous Activity Motor Units ita Muscles |" Fibs | Psw | Others | Amp | Duration | Polys. | Recruit | Interference Lt.FDI [| +2 [ +2 [ None | High | Long | No | RFR_| Reduced _ (RETA [| +3 | +3 [None | ~FewHigh | FewLong | =No | Normal | = [Rt.Gastroc [ +2 | +2 [ None | FewHigh | FewLong | No | Normal | =
+R33C01: Lt. FDI
+R33C02: 
+R33C03: 
+R33C04: None
+R33C05: 
+R33C06: 
+R33C07: 
+R33C08: 
+R33C09: 
+
+R34C00: 
+R34C01: 
+R34C02: 
+R34C03: None
+R34C04: 
+R34C05: 
+R34C06: 
+R34C07: 
+R34C08: ete tae ee
+
+R35C00: Rt. Gastroc
+R35C01: 
+R35C02: 
+R35C03: None
+R35C04: 
+R35C05: 
+R35C06: 
+R35C07: 
+R35C08: ae eee. |
+

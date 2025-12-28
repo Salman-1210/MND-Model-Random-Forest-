@@ -1,0 +1,108 @@
+{
+  "Motor_Nerve_Conduction_Studies": [
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": 2.97,
+      "Amplitude_mv": 13.85,
+      "NCV_ms": 61.3
+    },
+    {
+      "Nerve_Muscles": "Rt. Median APB",
+      "Stimulus_Site": "ELBOW",
+      "Latency_ms": 6.72,
+      "Amplitude_mv": 13.51,
+      "NCV_ms": 61.3
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADM",
+      "Stimulus_Site": "WRIST",
+      "Latency_ms": 2.81,
+      "Amplitude_mv": 12.30,
+      "NCV_ms": 58.5
+    },
+    {
+      "Nerve_Muscles": "Rt. Ulnar ADM",
+      "Stimulus_Site": "D. ELBOW",
+      "Latency_ms": 6.41,
+      "Amplitude_mv": 11.43,
+      "NCV_ms": 56.0
+    },
+    {
+      "Nerve_Muscles": "Rt. Radial EIP",
+      "Stimulus_Site": "FOREARM",
+      "Latency_ms": 1.95,
+      "Amplitude_mv": 4.09,
+      "NCV_ms": 57.0
+    }
+  ],
+
+  "Sensory_Nerve_Conduction_Studies": [
+    {
+      "Nerve": "Rt. Median",
+      "Latency_ms": 3.13,
+      "Amplitude_uv": 92.39,
+      "NCV_ms": 50.0
+    },
+    {
+      "Nerve": "Rt. Ulnar",
+      "Latency_ms": 3.19,
+      "Amplitude_uv": 73.65,
+      "NCV_ms": 50.0
+    },
+    {
+      "Nerve": "Rt. Radial",
+      "Latency_ms": 2.00,
+      "Amplitude_uv": 53.17,
+      "NCV_ms": 50.0
+    }
+  ],
+
+  "Electromyography": [
+    {
+      "Muscles": "Rt. APB",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Rt. FDI",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Rt. EIP",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Rt. ECU",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Rt. ECR",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Rt. BR",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Rt. Biceps",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Rt. Triceps",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    },
+    {
+      "Muscles": "Rt. Deltoid",
+      "Fibs": "Nil",
+      "Psw": "Nil"
+    }
+  ]
+}
