@@ -5,7 +5,7 @@ import os
 import time
 
 def extract_medical_data_with_gemini(image_path):
-    API_KEY = "AIzaSyCRSk8YXz-Pxn7xD8j9p3JvTs665hij-Hg"
+    API_KEY = ""
     genai.configure(api_key=API_KEY)
     
     # Load the image
